@@ -1,1 +1,1 @@
-# sta302-winter2024
+# STA302 Winter 2024
